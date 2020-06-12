@@ -15,10 +15,4 @@
     <artifactId>jatool-core</artifactId>
     <name>${project.artifactId}</name>
     <description>Jatool核心</description>
-    <distributionManagement>
-        <repository>
-            <id>mvn-repo</id>
-            <url>file:E:/PersonalCodes/sa/mvn-repo/</url>
-        </repository>
-    </distributionManagement>
 </project>
